@@ -50,4 +50,4 @@
 <img src="https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/bcb1389f-d819-417b-9f03-eef1dc392f27"/>
 
 
-## Criar abrir executar
+## Criar/abrir/executar
