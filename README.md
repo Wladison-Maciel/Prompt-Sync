@@ -8,8 +8,8 @@
 
 <div align = "center">
   
-[Inicio](#O-que-irei-aprender-aqui?)
-[Requisitos Minímos](#Requisitos-Minímos) 
+[- Inicio](#O-que-irei-aprender-aqui?)
+[- Requisitos Minímos](#Requisitos-Minímos) 
 
 </div>
 
