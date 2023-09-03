@@ -21,7 +21,8 @@
 [- Criar](#Criar)
 [/Abrir](#Abrir)
 [/Executar](#Executar)
-[-Instalando o PromptSync](#Instalando-o-PromptSync)
+[- Instalando o PromptSync](#Instalando-o-PromptSync)
+[- Finalizando o Tutorial](#Finalizando-o-Tutorial)
 
 </div>
 
@@ -127,3 +128,11 @@ const entrada = require('prompt-sync')({sigint: true});
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/72f54900-4f52-44bd-b2db-711fcdb30bb2"/>
+
+## Finalizando o Tutorial
+
+<p>
+  Com tudo pronto, criei um código simples com entrada de dados e o seu retorno
+</p>
+
+<img src = "" />
