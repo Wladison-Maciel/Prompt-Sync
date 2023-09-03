@@ -135,4 +135,8 @@ const entrada = require('prompt-sync')({sigint: true});
   Com tudo pronto, criei um código simples com entrada de dados e o seu retorno
 </p>
 
-<img src = "" />
+<h4>
+  - 1 - No terminal digite "node"+ nome do arquivo, que seria o JavaScript, da seguinte maneira: "node App.js"
+</h4>
+
+<img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/abf36827-b224-4279-98ab-4b757d1baa53" />
