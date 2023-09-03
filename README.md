@@ -2,6 +2,14 @@
   Seja Bem-Vindo(a) ao meu tutorial 😃
 </h2>
 
+<div align = "center">
+
+![Stars](https://img.shields.io/github/stars/Wladison-Maciel/Prompt-Sync.svg)
+![Watchers](https://img.shields.io/github/watchers/Wladison-Maciel/Prompt-Sync.svg)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/Wladison-Maciel/Prompt-Sync/main)
+![Follows](https://img.shields.io/github/followers/Wladison-Maciel.svg?style=social&label=Follow&maxAge=2592000)
+</div>
+
 <h3 align = "center">
   Ainda estou atualizando, fique ligado(a) 😉
 </h3>
