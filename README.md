@@ -43,7 +43,7 @@
 <h4>
 
   - 1 - Abra o Prompt de comando do seu computador
-  - 2 - Digite "node" da maneira como está mostrado na imagem
+  - 2 - Digite "node" da maneira como está mostrando a imagem
   - 3 - Se aparecer a versão do Node quer dizer que está tudo certo
 </h4>
 
@@ -52,6 +52,11 @@
 
 ## Criar
 
+<p>
+  Para começarmos mesmo devemos criar uma pasta onde seráa armazenado nosso código JavaScript 
+</p>
+
+
 ## Abrir
 
-# Executar
+## Executar
