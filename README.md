@@ -27,11 +27,8 @@
 <p>
   
   * 1 Você deve ter instalado o Node.js para que possamos utilizar a linguagem JavaScript
-</p>
-
-<p>
-  
   * 2 Como personagem principal também, o Visual Studio Code deve estar instalado juntamente
+  * 3 No Visual Studio Code, instale as extensões: Code Runner, JavaScript (ES6) code snippets 
 </p>
 
 * ### Node.JS - Visual Studio Code
@@ -72,6 +69,16 @@
 <p>
   Agora abra o seu Visual Studio Code e a partir dele, abra a pasta que você criou
 </p>
+
+<h4>
+
+  - 1 - Vá em arquivo
+  - 2 - Abrir pasta
+  - 3 - Selecione a pasta criada que foi: "PromptSyncGit"
+  - 4 - Por fim, crie um arquivo JavaScript, com nome a sua preferência, exemplo na imagem: "App.js"
+</h4>
+
+<img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/277a9ed6-0f2c-46e0-a25a-071f89cb711d" />
 
 
 
