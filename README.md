@@ -116,10 +116,14 @@ const entrada = require('prompt-sync')({sigint: true});
   - 1 - Inicialmente se você for olha a pasta que criou, terá somente o arquivo JavaScript, como na foto 1° abaixo: App.js
   - 2 - No espaço de código, vá em terminal
   - 3 - Novo terminal
-  - 4 - Obs: Se o terminal não abrir na pasta onde está o código, você pode utilizar o comando "cd"+/{NomeDaPasta}
+  - 4 - Obs: Se o terminal não abrir na pasta onde está o código, você pode utilizar o comando "cd"+{NomeDaPasta}
   - 5 - Agora no terminal digite o seguinte comando: npm install prompt-sync
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/220153a9-1106-4733-94e5-cadecd607f71"/>
 
-<img src = ""/>
+<h4>
+  Após digitar o comando, você pode ver que na pasta do seu projeto foi adicionado uma nova pasta e arquivos, ou tudo pode estar contido em somente uma pasta
+</h4>
+
+<img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/72f54900-4f52-44bd-b2db-711fcdb30bb2"/>
