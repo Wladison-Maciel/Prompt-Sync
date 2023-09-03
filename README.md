@@ -53,7 +53,7 @@
 ## Criar
 
 <p>
-  Para começarmos mesmo devemos criar uma pasta onde seráa armazenado nosso código JavaScript 
+  Para começarmos mesmo devemos criar uma pasta onde será armazenado nosso código JavaScript 
 </p>
 
 
