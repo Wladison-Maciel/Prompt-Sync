@@ -10,7 +10,7 @@
   
 [- Inicio](#O-que-irei-aprender-aqui?)
 [- Requisitos Minímos](#Requisitos-Minímos)
-[- Criar, abrir, executar](#Criar-abrir-executar)
+[- Criar, abrir, executar](#Criar,-abrir,-executar)
 
 </div>
 
