@@ -96,6 +96,7 @@
 </p>
 
 <h4>
+  
   - 1 - Com a pasta do código aberto e com o arquivo JavaScript criado, você vai digitar o seguinte código
   - 2 - Sempre o deixando na 1° linha de código
 </h4>
