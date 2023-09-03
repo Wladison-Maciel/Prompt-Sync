@@ -88,6 +88,16 @@
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/277a9ed6-0f2c-46e0-a25a-071f89cb711d" />
 
-
-
 ## Executar
+
+<p>
+  Antes de executarmos a aplicação devemos adicionar uma linha de código bastante importante
+</p>
+
+<h4>
+  - 1 - Com a pasta do código aberto e com o arquivo JavaScript criado, você vai digitar o seguinte código
+</h4>
+
+``` JS
+const entrada = require('prompt-sync')({sigint: true});
+```
