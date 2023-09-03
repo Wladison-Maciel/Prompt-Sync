@@ -21,6 +21,7 @@
 [- Criar](#Criar)
 [/Abrir](#Abrir)
 [/Executar](#Executar)
+[-Instalando o PromptSync](#Instalando-o-PromptSync)
 
 </div>
 
@@ -101,3 +102,5 @@
 ``` JS
 const entrada = require('prompt-sync')({sigint: true});
 ```
+
+## Instalando o PromptSync
