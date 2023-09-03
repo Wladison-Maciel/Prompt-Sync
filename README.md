@@ -69,4 +69,10 @@
 
 ## Abrir
 
+<p>
+  Agora abra o seu Visual Studio Code e a partir dele, abra a pasta que você criou
+</p>
+
+
+
 ## Executar
