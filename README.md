@@ -120,6 +120,6 @@ const entrada = require('prompt-sync')({sigint: true});
   - 5 - Agora no terminal digite o seguinte comando: npm install prompt-sync
 </h4>
 
-<img src = ""/>
+<img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/220153a9-1106-4733-94e5-cadecd607f71"/>
 
 <img src = ""/>
