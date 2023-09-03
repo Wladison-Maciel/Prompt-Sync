@@ -56,6 +56,14 @@
   Para começarmos mesmo devemos criar uma pasta onde será armazenado nosso código JavaScript 
 </p>
 
+<h4>
+
+  - 1 - Abra seu explorador de arquivos
+  - 2 - Crie uma pasta (qualquer nome), no caso o nome da pasta criada foi: "PromptSyncGit"
+</h4>
+
+
+<img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/ff67dec7-722a-4315-b14f-ca9fe4d9c007" />
 
 ## Abrir
 
