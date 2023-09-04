@@ -23,6 +23,7 @@
 [/Executar](#Executar)
 [- Instalando o PromptSync](#Instalando-o-PromptSync)
 [- Finalizando o Tutorial](#Finalizando-o-Tutorial)
+[- Explicação](#Explicação)
 
 </div>
 
@@ -140,3 +141,53 @@ const entrada = require('prompt-sync')({sigint: true});
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/abf36827-b224-4279-98ab-4b757d1baa53" />
+
+## Explicação:
+
+<h4>
+  O que realmente significa essa linha de código?
+</h4>
+
+``` JS
+const entrada = require('prompt-sync')({sigint: true});
+```
+
+<p>
+  A variável entrada pode ser um nome sua escolha, mas ela é quem vai no seu código para quando houver uma entrada de dados
+</p>
+
+<h4>
+  Exemplo:
+</h4>
+
+``` JS
+const entradaDados = require('prompt-sync')({sigint: true});
+```
+
+``` JS
+let idade = Number.parseInt(entradaDados("Digite um número: "));
+```
+
+<h4>
+  O que require quer dizer?
+</h4>
+
+``` JS
+require('prompt-sync')
+```
+
+<p>
+  Esse é bem simples, o require está fazendo um requerimento dos dados que foram baixados a partir do prompt-sync
+</p>
+
+<h4>
+  E o sigint: true?
+</h4>
+
+``` JS
+({sigint: true});
+```
+
+<p>
+  Ele diz se a condição de entrada de dados é verdadeira ou falsa, se você for agora e troca de "true" para "false", o código não irá conseguir capitar se houve uma entrada de dados, ou melhor, ele vai negar essa entrada
+</p>
