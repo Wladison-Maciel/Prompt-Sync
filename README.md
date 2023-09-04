@@ -10,10 +10,6 @@
 ![Follows](https://img.shields.io/github/followers/Wladison-Maciel.svg?style=social&label=Follow&maxAge=2592000)
 </div>
 
-<h3 align = "center">
-  Ainda estou atualizando, fique ligado(a) 😉
-</h3>
-
 <div align = "center">
   
 [- Inicio](#O-que-irei-aprender-aqui?)
