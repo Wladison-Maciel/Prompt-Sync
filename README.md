@@ -192,6 +192,17 @@ require('prompt-sync')
 
 
 <div align = "center">
+
+## Referência utilizada para o tutorial:
+
+<p>
+  No link abaixo está o video que foi utilizado para produzir esse repositório
+</p>
+
+https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
   
 ## Dúvidas:
 
