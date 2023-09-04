@@ -20,6 +20,7 @@
 [- Instalando o PromptSync](#Instalando-o-PromptSync)
 [- Finalizando o Tutorial](#Finalizando-o-Tutorial)
 [- Explicação](#Explicação)
+[- Dúvidas](#Dúvidas)
 
 </div>
 
@@ -187,3 +188,23 @@ require('prompt-sync')
 <p>
   Ele diz se a condição de entrada de dados é verdadeira ou falsa, se você for agora e troca de "true" para "false", o código não irá conseguir capitar se houve uma entrada de dados, ou melhor, ele vai negar essa entrada
 </p>
+
+
+
+<div align = "center">
+  
+## Dúvidas:
+
+<p>
+  Se não conseguiu ou tem alguma dúvida em relação ao assunto, entre em contato comigo por algum dos meios abaixo:
+</p>
+
+<a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+
+<h3 align = "center">
+  Obrigado por chegar aqui, até um próximo tutorial 😀👍
+</h3>
+
+</div>
