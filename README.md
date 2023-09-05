@@ -27,7 +27,7 @@
 ## O que irei aprender aqui? 🤷‍♂️
 
 <p>
-  Neste repositório irei lhe ensinar a como fazer um código Js(JavaScript) onde há uma entrada de dados comum, utilizando o terminal do VScode sem o uso de site CSS/HTML. O problema encontrado foi de que no Visual Studio Code não é possível realizar uma entrada de dados convencional, assim como no Python e Java 
+  Neste repositório irei lhe ensinar a como fazer um código Js(JavaScript) onde há uma entrada de dados comum, utilizando o terminal do VScode sem o uso de site CSS/HTML. O problema encontrado foi de que no Visual Studio Code não é possível receber valores do teclado para uma entrada de dados convencional, assim como no Python e Java 
 </p>
 
 ## Requisitos Minímos:
