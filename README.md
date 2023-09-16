@@ -34,8 +34,8 @@
 
 <p>
   
-  * 1 Você deve ter instalado o Node.js para que possamos utilizar a linguagem JavaScript
-  * 2 Como personagem principal também, o Visual Studio Code deve estar instalado juntamente
+  * 1 Você deve ter instalado o Node.js para que possamos utilizar a Biblioteca
+  * 2 O Visual Studio Code deve estar instalado juntamente
   * 3 No Visual Studio Code, instale as extensões: Code Runner, JavaScript (ES6) code snippets 
 </p>
 
