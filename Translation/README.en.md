@@ -220,3 +220,10 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 </h3>
 
 </div>
+
+<div align = "center">
+
+#### _✮ READ THIS IN [OTHERS LANGUAGES](Translation/Translation.md):_
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
+  
+</div>
