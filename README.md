@@ -219,3 +219,10 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 </h3>
 
 </div>
+
+<div align = "center">
+
+#### _✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translations/README.en.md)</kbd>
+  
+</div>
