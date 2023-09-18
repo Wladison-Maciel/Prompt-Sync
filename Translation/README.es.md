@@ -98,8 +98,8 @@
 
 <h4>
   
-  - 1 - Com a pasta do código aberto e com o arquivo JavaScript criado, você vai digitar o seguinte código
-  - 2 - Sempre o deixando na 1° linha de código
+  - 1 - Con la carpeta fuente abierta y el archivo JavaScript creado, ingresará el siguiente código
+  - 2 - Dejándolo siempre en la primera línea de código.
 </h4>
 
 ``` JS
@@ -109,22 +109,22 @@ const entrada = require('prompt-sync')({sigint: true});
 ## Instalación de PromptSync
 
 <p>
-  Chegamos na cereja do bolo, é aqui que tudo muda
+  Hemos llegado a la guinda del pastel, aquí es donde todo cambia
 </p>
 
 <h4>
   
-  - 1 - Inicialmente se você for olha a pasta que criou, terá somente o arquivo JavaScript, como na foto 1° abaixo: App.js
-  - 2 - No espaço de código, vá em terminal
-  - 3 - Novo terminal
-  - 4 - Obs: Se o terminal não abrir na pasta onde está o código, você pode utilizar o comando "cd"+{NomeDoDiretório}
-  - 5 - Agora no terminal digite o seguinte comando: npm install prompt-sync
+  - 1 - Inicialmente, si miras la carpeta que creaste, solo tendrás el archivo JavaScript, como en la primera foto a continuación: App.js
+  - 2 - En el espacio de código, vaya a la terminal
+  - 3 - Nueva terminal
+  - 4 - Nota: Si la terminal no se abre en la carpeta donde está el código, puedes usar el comando "cd"+{NombreDelDirectorio}
+  - 5 - Ahora en la terminal escriba el siguiente comando: npm install Prompt-Sync
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/220153a9-1106-4733-94e5-cadecd607f71"/>
 
 <h4>
-  Após digitar o comando, você pode ver que na pasta do seu projeto foi adicionado uma nova pasta e arquivos, ou tudo pode estar contido em somente uma pasta
+  Después de escribir el comando, puede ver que se han agregado una nueva carpeta y archivos a la carpeta de su proyecto, o todo puede estar contenido en una sola carpeta.
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/72f54900-4f52-44bd-b2db-711fcdb30bb2"/>
@@ -132,11 +132,11 @@ const entrada = require('prompt-sync')({sigint: true});
 ## Terminando el tutorial
 
 <p>
-  Com tudo pronto, criei um código simples com entrada de dados e o seu retorno
+  Con todo listo, creé un código simple con ingreso de datos y su retorno.
 </p>
 
 <h4>
-  - 1 - No terminal digite "node"+ nome do arquivo, que seria o JavaScript, da seguinte maneira: "node App.js"
+  - 1 - En la terminal escriba "node"+ nombre de archivo, que sería JavaScript, de la siguiente manera: "node App.js"
 </h4>
 
 <img src = "https://github.com/Wladison-Maciel/Prompt-Sync/assets/125041870/abf36827-b224-4279-98ab-4b757d1baa53" />
@@ -144,7 +144,7 @@ const entrada = require('prompt-sync')({sigint: true});
 ## Explicación:
 
 <h4>
-  O que realmente significa essa linha de código?
+ Qué significa realmente esta línea de código?
 </h4>
 
 ``` JS
@@ -152,11 +152,11 @@ const entrada = require('prompt-sync')({sigint: true});
 ```
 
 <p>
-  A variável entrada pode ser um nome sua escolha, mas ela é quem vai no seu código para quando houver uma entrada de dados
+  La variable de entrada puede ser un nombre de su elección, pero es lo que entra en su código cuando hay entrada de datos.
 </p>
 
 <h4>
-  Exemplo:
+  Ejemplo:
 </h4>
 
 ``` JS
@@ -168,7 +168,7 @@ let idade = Number.parseInt(entradaDados("Digite um número: "));
 ```
 
 <h4>
-  O que require quer dizer?
+  Qué significa requerir?
 </h4>
 
 ``` JS
@@ -176,11 +176,11 @@ require('prompt-sync')
 ```
 
 <p>
-  Esse é bem simples, o require está fazendo um requerimento dos dados que foram baixados a partir do prompt-sync
+  Esto es muy simple, requerir es realizar una solicitud de los datos que se descargaron desde la sincronización inmediata.
 </p>
 
 <h4>
-  E o sigint: true?
+  Y el sigint: true?
 </h4>
 
 ``` JS
@@ -188,17 +188,15 @@ require('prompt-sync')
 ```
 
 <p>
-  Ele diz se a condição de entrada de dados é verdadeira ou falsa, se você for agora e troca de "true" para "false", o código não irá conseguir capitar se houve uma entrada de dados, ou melhor, ele vai negar essa entrada
+  Te dice si la condición de ingreso de datos es verdadera o falsa, si vas ahora y cambias de "verdadero" a "falso", el código no podrá capturar si hubo un ingreso de datos, o mejor dicho, lo negará. entrada
 </p>
-
-
 
 <div align = "center">
 
 ## Referencia utilizada para el tutorial:
 
 <p>
-  No link abaixo está o video que foi utilizado para produzir esse repositório
+  En el siguiente enlace se encuentra el vídeo que se utilizó para producir este repositorio.
 </p>
 
 https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
@@ -209,7 +207,7 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 ## Dudas:
 
 <p>
-  Se não conseguiu ou tem alguma dúvida em relação ao assunto, entre em contato comigo por algum dos meios abaixo:
+  Si no pudo hacerlo o tiene alguna pregunta sobre el asunto, comuníquese conmigo utilizando cualquiera de los métodos a continuación:
 </p>
 
 <a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -217,7 +215,7 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 <a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
 <h3 align = "center">
-  Obrigado por chegar aqui, até um próximo tutorial 😀👍
+  Gracias por venir aquí, nos vemos en el próximo tutorial 😀👍
 </h3>
 
 </div>
@@ -225,8 +223,8 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 
 <div align = "center">
 
-#### _✮ LEIA EM [OUTROS IDIOMAS](Translation/Translation.md):_
+#### _✮ LEER EN [OTROS IDIOMAS](Translation/Translation.md):_
 
-<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](Translation/README.en.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
   
 </div>
