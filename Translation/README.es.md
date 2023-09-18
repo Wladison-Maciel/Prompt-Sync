@@ -226,6 +226,7 @@ https://youtu.be/1TzCYVTC9tc?si=zmhZPPBLgPT5kwXa
 #### _✮ LEER EN [OTROS IDIOMAS](Translation/Translation.md):_
 
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
+
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](Translation/README.en.md)</kbd>
   
 </div>
